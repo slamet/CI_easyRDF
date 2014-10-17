@@ -14,3 +14,17 @@ Codeigniter 2.2 templating for easyRDF
 <tt>localhost/CI_easyRDF/index.php/basic/foafmaker</tt> (foafmaker) 
 
 <tt>localhost/CI_easyRDF/index.php/basic/converter</tt> (converter)
+
+ 
+ 
+
+ 
+ ![Image of Yaktocat](https://ndesostyle.files.wordpress.com/2014/10/easyrdf.png)
+ 
+ 
+ 
+ 
+
+ 
+
+ 
