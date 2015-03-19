@@ -24,6 +24,9 @@ Codeigniter 2.2 templating for easyRDF
  
  
  
+  ![Image of Yaktocat](http://www.disewain.com/public/logo/rumah.png)
+ 
+ 
 
  
 
